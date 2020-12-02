@@ -1,0 +1,668 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key attr.name="name" attr.type="string" for="node" id="1"/>
+<graph edgedefault="undirected">
+<node id="1">
+  <data key="1">*SPIDER-MAN*</data>
+</node>
+<node id="2">
+  <data key="1">*WATSON-PARKER*</data>
+</node>
+<node id="3">
+  <data key="1">*HUMANTORCH*</data>
+</node>
+<node id="4">
+  <data key="1">*THING*</data>
+</node>
+<node id="5">
+  <data key="1">*MR.FANTASTIC*</data>
+</node>
+<node id="6">
+  <data key="1">*INVISIBLEWOMAN*</data>
+</node>
+<node id="7">
+  <data key="1">*JAMESON*</data>
+</node>
+<node id="8">
+  <data key="1">*DAREDEVIL*</data>
+</node>
+<node id="9">
+  <data key="1">*NELSON*</data>
+</node>
+<node id="10">
+  <data key="1">*ANT-MAN*</data>
+</node>
+<node id="11">
+  <data key="1">*WASP*</data>
+</node>
+<node id="12">
+  <data key="1">*KA-ZAR*</data>
+</node>
+<node id="13">
+  <data key="1">*ZABU*</data>
+</node>
+<node id="14">
+  <data key="1">*PARKER*</data>
+</node>
+<node id="15">
+  <data key="1">*ROBERTSON*</data>
+</node>
+<node id="16">
+  <data key="1">*DR.STRANGE*</data>
+</node>
+<node id="17">
+  <data key="1">*WONG*</data>
+</node>
+<node id="18">
+  <data key="1">*BANNER*</data>
+</node>
+<node id="19">
+  <data key="1">*HULK*</data>
+</node>
+<node id="20">
+  <data key="1">*MICROCHIP*</data>
+</node>
+<node id="21">
+  <data key="1">*PUNISHERII*</data>
+</node>
+<node id="22">
+  <data key="1">*ROSS*</data>
+</node>
+<node id="23">
+  <data key="1">*IRONMAN*</data>
+</node>
+<node id="24">
+  <data key="1">*IRONMANIV*</data>
+</node>
+<node id="25">
+  <data key="1">*CAPTAINAMERICA*</data>
+</node>
+<node id="26">
+  <data key="1">*CLEA*</data>
+</node>
+<node id="27">
+  <data key="1">*ODIN[ASGARDIAN]*</data>
+</node>
+<node id="28">
+  <data key="1">*THOR*</data>
+</node>
+<node id="29">
+  <data key="1">*CYCLOPS*</data>
+</node>
+<node id="30">
+  <data key="1">*MARVELGIRL*</data>
+</node>
+<node id="31">
+  <data key="1">*SCARLETWITCH*</data>
+</node>
+<node id="32">
+  <data key="1">*VISION*</data>
+</node>
+<node id="33">
+  <data key="1">*PAGE*</data>
+</node>
+<node id="34">
+  <data key="1">*THOMPSON*</data>
+</node>
+<node id="35">
+  <data key="1">*FALCON*</data>
+</node>
+<node id="36">
+  <data key="1">*JONES*</data>
+</node>
+<node id="37">
+  <data key="1">*HOWARDTHEDUCK*</data>
+</node>
+<node id="38">
+  <data key="1">*SWITZLER*</data>
+</node>
+<node id="39">
+  <data key="1">*MASTERS*</data>
+</node>
+<node id="40">
+  <data key="1">*ANGEL*</data>
+</node>
+<node id="41">
+  <data key="1">*ICEMAN*</data>
+</node>
+<node id="42">
+  <data key="1">*LEEDS*</data>
+</node>
+<node id="43">
+  <data key="1">*DUGAN*</data>
+</node>
+<node id="44">
+  <data key="1">*FURY*</data>
+</node>
+<node id="45">
+  <data key="1">*LOKI[ASGARDIAN]*</data>
+</node>
+<node id="46">
+  <data key="1">*STORM*</data>
+</node>
+<node id="47">
+  <data key="1">*WOLVERINE*</data>
+</node>
+<node id="48">
+  <data key="1">*ALRAUNE*</data>
+</node>
+<node id="49">
+  <data key="1">*MOONKNIGHT*</data>
+</node>
+<node id="50">
+  <data key="1">*SHANG-CHI*</data>
+</node>
+<node id="51">
+  <data key="1">*TARR*</data>
+</node>
+<node id="52">
+  <data key="1">*REDSKULL*</data>
+</node>
+<node id="53">
+  <data key="1">*BEAST*</data>
+</node>
+<node id="54">
+  <data key="1">*PROFESSORX*</data>
+</node>
+<node id="55">
+  <data key="1">*NIGHTCRAWLER*</data>
+</node>
+<node id="56">
+  <data key="1">*HAWK*</data>
+</node>
+<node id="57">
+  <data key="1">*RICHARDS*</data>
+</node>
+<node id="58">
+  <data key="1">*FANDRAL[ASGARDIAN]*</data>
+</node>
+<node id="59">
+  <data key="1">*HOGUN[ASGARDIAN]*</data>
+</node>
+<node id="60">
+  <data key="1">*MISSAMERICA*</data>
+</node>
+<node id="61">
+  <data key="1">*PATRIOT*</data>
+</node>
+<node id="62">
+  <data key="1">*CARTER*</data>
+</node>
+<node id="63">
+  <data key="1">*CLOAK*</data>
+</node>
+<node id="64">
+  <data key="1">*DAGGER*</data>
+</node>
+<node id="65">
+  <data key="1">*VOLSTAGG*</data>
+</node>
+<node id="66">
+  <data key="1">*COLOSSUSII*</data>
+</node>
+<node id="67">
+  <data key="1">*FRENCHIE*</data>
+</node>
+<node id="68">
+  <data key="1">*SIF*</data>
+</node>
+<node id="69">
+  <data key="1">*SHADOWCAT*</data>
+</node>
+<node id="70">
+  <data key="1">*TALBOT*</data>
+</node>
+<node id="71">
+  <data key="1">*BALDER[ASGARDIAN]*</data>
+</node>
+<node id="72">
+  <data key="1">*JARVIS*</data>
+</node>
+<node id="73">
+  <data key="1">*OSBORN*</data>
+</node>
+<node id="74">
+  <data key="1">*WU*</data>
+</node>
+<node id="75">
+  <data key="1">*ANCIENTONE*</data>
+</node>
+<node id="76">
+  <data key="1">*HOGAN*</data>
+</node>
+<node id="77">
+  <data key="1">*HOGAN*</data>
+</node>
+<node id="78">
+  <data key="1">*CAGE*</data>
+</node>
+<node id="79">
+  <data key="1">*IRONFIST*</data>
+</node>
+<node id="80">
+  <data key="1">*BLACKWIDOW*</data>
+</node>
+<node id="81">
+  <data key="1">*SHANNA*</data>
+</node>
+<node id="82">
+  <data key="1">*SMITH*</data>
+</node>
+<node id="83">
+  <data key="1">*DORMA[ATLANTEAN]*</data>
+</node>
+<node id="84">
+  <data key="1">*SUB-MARINER*</data>
+</node>
+<node id="85">
+  <data key="1">*RESTON*</data>
+</node>
+<node id="86">
+  <data key="1">*BUCKY*</data>
+</node>
+<node id="87">
+  <data key="1">*DRACULA*</data>
+</node>
+<node id="88">
+  <data key="1">*DRAKE*</data>
+</node>
+<node id="89">
+  <data key="1">*KINCAID*</data>
+</node>
+<node id="90">
+  <data key="1">*MOCKINGBIRD*</data>
+</node>
+<node id="91">
+  <data key="1">*QUICKSILVER*</data>
+</node>
+<node id="92">
+  <data key="1">*WONDERMAN*</data>
+</node>
+<node id="93">
+  <data key="1">*JONES*</data>
+</node>
+<node id="94">
+  <data key="1">*DOCSAMSON*</data>
+</node>
+<node id="95">
+  <data key="1">*REDWING*</data>
+</node>
+<node id="96">
+  <data key="1">*VASHTI*</data>
+</node>
+<node id="97">
+  <data key="1">*KINGPIN*</data>
+</node>
+<node id="98">
+  <data key="1">*ARBOGAST*</data>
+</node>
+<node id="99">
+  <data key="1">*OSBORN*</data>
+</node>
+<node id="100">
+  <data key="1">*RUSSELL*</data>
+</node>
+<node id="101">
+  <data key="1">*WEREWOLFBYNIGHT*</data>
+</node>
+<node id="102">
+  <data key="1">*FUMANCHU*</data>
+</node>
+<node id="103">
+  <data key="1">*ROM*</data>
+</node>
+<node id="104">
+  <data key="1">*STARSHINEII*</data>
+</node>
+<node id="105">
+  <data key="1">*WATSON*</data>
+</node>
+<node id="106">
+  <data key="1">*CAPTAINMARVEL*</data>
+</node>
+<node id="107">
+  <data key="1">*VANHELSING*</data>
+</node>
+<node id="108">
+  <data key="1">*ROGUE*</data>
+</node>
+<node id="109">
+  <data key="1">*NORRISS*</data>
+</node>
+<node id="110">
+  <data key="1">*SPIDER-MANCLONE*</data>
+</node>
+<node id="111">
+  <data key="1">*BARONMORDO*</data>
+</node>
+<node id="112">
+  <data key="1">*CAPTAINBRITAIN*</data>
+</node>
+<node id="113">
+  <data key="1">*MEGGAN*</data>
+</node>
+<node id="114">
+  <data key="1">*CANNONBALLII*</data>
+</node>
+<node id="115">
+  <data key="1">*SUNSPOT*</data>
+</node>
+<node id="116">
+  <data key="1">*KNIGHT*</data>
+</node>
+<node id="117">
+  <data key="1">*WING*</data>
+</node>
+<node id="118">
+  <data key="1">*DR.DOOM*</data>
+</node>
+<node id="119">
+  <data key="1">*WOLFE*</data>
+</node>
+<node id="120">
+  <data key="1">*BLACKCAT*</data>
+</node>
+<node id="121">
+  <data key="1">*HEIMDALL[ASGARDIAN]*</data>
+</node>
+<node id="122">
+  <data key="1">*KARNILLA[ASGARDIAN]*</data>
+</node>
+<node id="123">
+  <data key="1">*URICH*</data>
+</node>
+<node id="124">
+  <data key="1">*MANDARIN*</data>
+</node>
+<node id="125">
+  <data key="1">*STACY*</data>
+</node>
+<node id="126">
+  <data key="1">*ROSENTHAL*</data>
+</node>
+<node id="127">
+  <data key="1">*BLACKPANTHER*</data>
+</node>
+<node id="128">
+  <data key="1">*LYNNE*</data>
+</node>
+<node id="129">
+  <data key="1">*GRANT*</data>
+</node>
+<node id="130">
+  <data key="1">*NIGHTHAWKII*</data>
+</node>
+<node id="131">
+  <data key="1">*CRYSTAL[INHUMAN]*</data>
+</node>
+<node id="132">
+  <data key="1">*MIRAGEII*</data>
+</node>
+<node id="133">
+  <data key="1">*DEVILDINOSAUR*</data>
+</node>
+<node id="134">
+  <data key="1">*MOONBOY*</data>
+</node>
+<node id="135">
+  <data key="1">*BLAZE*</data>
+</node>
+<node id="136">
+  <data key="1">*GHOSTRIDERII*</data>
+</node>
+<node id="137">
+  <data key="1">*HERCULES[GREEKGOD]*</data>
+</node>
+<node id="138">
+  <data key="1">*WOLFSBANE*</data>
+</node>
+<node id="139">
+  <data key="1">*MAN-THING*</data>
+</node>
+<node id="140">
+  <data key="1">*RORY*</data>
+</node>
+<node id="141">
+  <data key="1">*PETROVITCH*</data>
+</node>
+<edge source="1" target="2"/>
+<edge source="3" target="4"/>
+<edge source="5" target="4"/>
+<edge source="3" target="5"/>
+<edge source="6" target="5"/>
+<edge source="3" target="6"/>
+<edge source="6" target="4"/>
+<edge source="7" target="1"/>
+<edge source="8" target="9"/>
+<edge source="10" target="11"/>
+<edge source="12" target="13"/>
+<edge source="14" target="1"/>
+<edge source="15" target="1"/>
+<edge source="16" target="17"/>
+<edge source="18" target="19"/>
+<edge source="20" target="21"/>
+<edge source="19" target="22"/>
+<edge source="23" target="24"/>
+<edge source="25" target="23"/>
+<edge source="26" target="16"/>
+<edge source="27" target="28"/>
+<edge source="29" target="30"/>
+<edge source="31" target="32"/>
+<edge source="8" target="33"/>
+<edge source="7" target="15"/>
+<edge source="1" target="34"/>
+<edge source="25" target="35"/>
+<edge source="25" target="11"/>
+<edge source="19" target="36"/>
+<edge source="37" target="38"/>
+<edge source="39" target="4"/>
+<edge source="40" target="41"/>
+<edge source="42" target="1"/>
+<edge source="43" target="44"/>
+<edge source="23" target="28"/>
+<edge source="25" target="28"/>
+<edge source="45" target="28"/>
+<edge source="46" target="47"/>
+<edge source="48" target="49"/>
+<edge source="23" target="31"/>
+<edge source="50" target="51"/>
+<edge source="25" target="52"/>
+<edge source="25" target="31"/>
+<edge source="53" target="41"/>
+<edge source="25" target="32"/>
+<edge source="29" target="54"/>
+<edge source="55" target="47"/>
+<edge source="7" target="2"/>
+<edge source="25" target="56"/>
+<edge source="5" target="57"/>
+<edge source="58" target="59"/>
+<edge source="40" target="53"/>
+<edge source="29" target="41"/>
+<edge source="53" target="29"/>
+<edge source="60" target="61"/>
+<edge source="25" target="62"/>
+<edge source="18" target="22"/>
+<edge source="63" target="64"/>
+<edge source="53" target="30"/>
+<edge source="59" target="65"/>
+<edge source="66" target="46"/>
+<edge source="41" target="30"/>
+<edge source="67" target="49"/>
+<edge source="6" target="57"/>
+<edge source="23" target="32"/>
+<edge source="58" target="65"/>
+<edge source="68" target="28"/>
+<edge source="66" target="47"/>
+<edge source="55" target="69"/>
+<edge source="19" target="70"/>
+<edge source="56" target="31"/>
+<edge source="71" target="28"/>
+<edge source="10" target="23"/>
+<edge source="25" target="44"/>
+<edge source="7" target="14"/>
+<edge source="40" target="29"/>
+<edge source="10" target="25"/>
+<edge source="23" target="11"/>
+<edge source="25" target="72"/>
+<edge source="73" target="1"/>
+<edge source="14" target="2"/>
+<edge source="40" target="30"/>
+<edge source="66" target="55"/>
+<edge source="10" target="56"/>
+<edge source="9" target="33"/>
+<edge source="56" target="23"/>
+<edge source="50" target="74"/>
+<edge source="75" target="16"/>
+<edge source="76" target="23"/>
+<edge source="77" target="23"/>
+<edge source="78" target="79"/>
+<edge source="80" target="8"/>
+<edge source="56" target="11"/>
+<edge source="57" target="4"/>
+<edge source="28" target="65"/>
+<edge source="58" target="28"/>
+<edge source="59" target="28"/>
+<edge source="3" target="57"/>
+<edge source="12" target="81"/>
+<edge source="50" target="82"/>
+<edge source="29" target="47"/>
+<edge source="83" target="84"/>
+<edge source="55" target="46"/>
+<edge source="22" target="70"/>
+<edge source="85" target="50"/>
+<edge source="86" target="25"/>
+<edge source="18" target="36"/>
+<edge source="15" target="2"/>
+<edge source="31" target="11"/>
+<edge source="81" target="13"/>
+<edge source="26" target="17"/>
+<edge source="10" target="32"/>
+<edge source="56" target="32"/>
+<edge source="54" target="47"/>
+<edge source="87" target="88"/>
+<edge source="45" target="27"/>
+<edge source="89" target="28"/>
+<edge source="56" target="90"/>
+<edge source="7" target="42"/>
+<edge source="77" target="76"/>
+<edge source="91" target="31"/>
+<edge source="23" target="92"/>
+<edge source="30" target="54"/>
+<edge source="43" target="93"/>
+<edge source="94" target="19"/>
+<edge source="35" target="95"/>
+<edge source="31" target="92"/>
+<edge source="10" target="31"/>
+<edge source="32" target="11"/>
+<edge source="18" target="70"/>
+<edge source="84" target="96"/>
+<edge source="16" target="19"/>
+<edge source="8" target="97"/>
+<edge source="54" target="46"/>
+<edge source="29" target="46"/>
+<edge source="39" target="5"/>
+<edge source="31" target="28"/>
+<edge source="28" target="11"/>
+<edge source="98" target="23"/>
+<edge source="28" target="32"/>
+<edge source="71" target="68"/>
+<edge source="48" target="67"/>
+<edge source="71" target="27"/>
+<edge source="6" target="39"/>
+<edge source="51" target="74"/>
+<edge source="85" target="51"/>
+<edge source="82" target="51"/>
+<edge source="3" target="39"/>
+<edge source="27" target="68"/>
+<edge source="56" target="92"/>
+<edge source="99" target="1"/>
+<edge source="23" target="72"/>
+<edge source="85" target="74"/>
+<edge source="100" target="101"/>
+<edge source="66" target="54"/>
+<edge source="102" target="50"/>
+<edge source="32" target="92"/>
+<edge source="103" target="104"/>
+<edge source="66" target="69"/>
+<edge source="7" target="34"/>
+<edge source="1" target="105"/>
+<edge source="53" target="54"/>
+<edge source="10" target="92"/>
+<edge source="106" target="36"/>
+<edge source="71" target="65"/>
+<edge source="87" target="107"/>
+<edge source="108" target="47"/>
+<edge source="3" target="1"/>
+<edge source="16" target="109"/>
+<edge source="1" target="110"/>
+<edge source="111" target="16"/>
+<edge source="71" target="59"/>
+<edge source="88" target="107"/>
+<edge source="72" target="32"/>
+<edge source="40" target="54"/>
+<edge source="69" target="47"/>
+<edge source="71" target="58"/>
+<edge source="10" target="28"/>
+<edge source="41" target="54"/>
+<edge source="56" target="28"/>
+<edge source="112" target="113"/>
+<edge source="114" target="115"/>
+<edge source="73" target="2"/>
+<edge source="116" target="117"/>
+<edge source="118" target="5"/>
+<edge source="19" target="109"/>
+<edge source="108" target="46"/>
+<edge source="16" target="119"/>
+<edge source="44" target="23"/>
+<edge source="120" target="1"/>
+<edge source="66" target="29"/>
+<edge source="121" target="27"/>
+<edge source="71" target="122"/>
+<edge source="25" target="84"/>
+<edge source="1" target="123"/>
+<edge source="27" target="65"/>
+<edge source="25" target="92"/>
+<edge source="23" target="124"/>
+<edge source="1" target="125"/>
+<edge source="72" target="28"/>
+<edge source="55" target="54"/>
+<edge source="25" target="126"/>
+<edge source="118" target="4"/>
+<edge source="82" target="74"/>
+<edge source="127" target="128"/>
+<edge source="59" target="27"/>
+<edge source="11" target="92"/>
+<edge source="58" target="27"/>
+<edge source="85" target="82"/>
+<edge source="71" target="45"/>
+<edge source="42" target="34"/>
+<edge source="66" target="108"/>
+<edge source="42" target="14"/>
+<edge source="129" target="1"/>
+<edge source="42" target="2"/>
+<edge source="25" target="91"/>
+<edge source="34" target="2"/>
+<edge source="56" target="91"/>
+<edge source="97" target="1"/>
+<edge source="130" target="109"/>
+<edge source="14" target="34"/>
+<edge source="131" target="4"/>
+<edge source="131" target="3"/>
+<edge source="114" target="132"/>
+<edge source="72" target="11"/>
+<edge source="121" target="28"/>
+<edge source="118" target="3"/>
+<edge source="133" target="134"/>
+<edge source="79" target="116"/>
+<edge source="36" target="22"/>
+<edge source="53" target="25"/>
+<edge source="135" target="136"/>
+<edge source="113" target="55"/>
+<edge source="25" target="137"/>
+<edge source="132" target="115"/>
+<edge source="114" target="138"/>
+<edge source="139" target="140"/>
+<edge source="80" target="141"/>
+<edge source="8" target="1"/>
+<edge source="112" target="69"/>
+</graph></graphml>

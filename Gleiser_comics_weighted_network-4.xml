@@ -1,0 +1,781 @@
+<?xml version="1.0" standalone="yes"?>
+
+<DynamicNetwork>
+    <MetaNetwork id="Gleiser_comics_weighted_network - 4">
+        <documents></documents>
+        <nodes>
+            <nodeclass type="Agent" id="source nodes">
+                <node id="1" title="*SPIDER-MAN*"></node>
+                <node id="2" title="*WATSON-PARKER*"></node>
+                <node id="3" title="*HUMANTORCH*"></node>
+                <node id="4" title="*THING*"></node>
+                <node id="5" title="*MR.FANTASTIC*"></node>
+                <node id="6" title="*INVISIBLEWOMAN*"></node>
+                <node id="7" title="*JAMESON*"></node>
+                <node id="8" title="*DAREDEVIL*"></node>
+                <node id="9" title="*NELSON*"></node>
+                <node id="10" title="*ANT-MAN*"></node>
+                <node id="11" title="*WASP*"></node>
+                <node id="12" title="*KA-ZAR*"></node>
+                <node id="13" title="*ZABU*"></node>
+                <node id="14" title="*PARKER*"></node>
+                <node id="15" title="*ROBERTSON*"></node>
+                <node id="16" title="*DR.STRANGE*"></node>
+                <node id="17" title="*WONG*"></node>
+                <node id="18" title="*BANNER*"></node>
+                <node id="19" title="*HULK*"></node>
+                <node id="20" title="*MICROCHIP*"></node>
+                <node id="21" title="*PUNISHERII*"></node>
+                <node id="22" title="*ROSS*"></node>
+                <node id="23" title="*IRONMAN*"></node>
+                <node id="24" title="*IRONMANIV*"></node>
+                <node id="25" title="*CAPTAINAMERICA*"></node>
+                <node id="26" title="*CLEA*"></node>
+                <node id="27" title="*ODIN[ASGARDIAN]*"></node>
+                <node id="28" title="*THOR*"></node>
+                <node id="29" title="*CYCLOPS*"></node>
+                <node id="30" title="*MARVELGIRL*"></node>
+                <node id="31" title="*SCARLETWITCH*"></node>
+                <node id="32" title="*VISION*"></node>
+                <node id="33" title="*PAGE*"></node>
+                <node id="34" title="*THOMPSON*"></node>
+                <node id="35" title="*FALCON*"></node>
+                <node id="36" title="*JONES*"></node>
+                <node id="37" title="*HOWARDTHEDUCK*"></node>
+                <node id="38" title="*SWITZLER*"></node>
+                <node id="39" title="*MASTERS*"></node>
+                <node id="40" title="*ANGEL*"></node>
+                <node id="41" title="*ICEMAN*"></node>
+                <node id="42" title="*LEEDS*"></node>
+                <node id="43" title="*DUGAN*"></node>
+                <node id="44" title="*FURY*"></node>
+                <node id="45" title="*LOKI[ASGARDIAN]*"></node>
+                <node id="46" title="*STORM*"></node>
+                <node id="47" title="*WOLVERINE*"></node>
+                <node id="48" title="*ALRAUNE*"></node>
+                <node id="49" title="*MOONKNIGHT*"></node>
+                <node id="50" title="*SHANG-CHI*"></node>
+                <node id="51" title="*TARR*"></node>
+                <node id="52" title="*REDSKULL*"></node>
+                <node id="53" title="*BEAST*"></node>
+                <node id="54" title="*PROFESSORX*"></node>
+                <node id="55" title="*NIGHTCRAWLER*"></node>
+                <node id="56" title="*HAWK*"></node>
+                <node id="57" title="*RICHARDS*"></node>
+                <node id="58" title="*FANDRAL[ASGARDIAN]*"></node>
+                <node id="59" title="*HOGUN[ASGARDIAN]*"></node>
+                <node id="60" title="*MISSAMERICA*"></node>
+                <node id="61" title="*PATRIOT*"></node>
+                <node id="62" title="*CARTER*"></node>
+                <node id="63" title="*CLOAK*"></node>
+                <node id="64" title="*DAGGER*"></node>
+                <node id="65" title="*VOLSTAGG*"></node>
+                <node id="66" title="*COLOSSUSII*"></node>
+                <node id="67" title="*FRENCHIE*"></node>
+                <node id="68" title="*SIF*"></node>
+                <node id="69" title="*SHADOWCAT*"></node>
+                <node id="70" title="*TALBOT*"></node>
+                <node id="71" title="*BALDER[ASGARDIAN]*"></node>
+                <node id="72" title="*JARVIS*"></node>
+                <node id="73" title="*OSBORN*"></node>
+                <node id="74" title="*WU*"></node>
+                <node id="75" title="*ANCIENTONE*"></node>
+                <node id="76" title="*HOGAN*"></node>
+                <node id="77" title="*HOGAN*"></node>
+                <node id="78" title="*CAGE*"></node>
+                <node id="79" title="*IRONFIST*"></node>
+                <node id="80" title="*BLACKWIDOW*"></node>
+                <node id="81" title="*SHANNA*"></node>
+                <node id="82" title="*SMITH*"></node>
+                <node id="83" title="*DORMA[ATLANTEAN]*"></node>
+                <node id="84" title="*SUB-MARINER*"></node>
+                <node id="85" title="*RESTON*"></node>
+                <node id="86" title="*BUCKY*"></node>
+                <node id="87" title="*DRACULA*"></node>
+                <node id="88" title="*DRAKE*"></node>
+                <node id="89" title="*KINCAID*"></node>
+                <node id="90" title="*MOCKINGBIRD*"></node>
+                <node id="91" title="*QUICKSILVER*"></node>
+                <node id="92" title="*WONDERMAN*"></node>
+                <node id="93" title="*JONES*"></node>
+                <node id="94" title="*DOCSAMSON*"></node>
+                <node id="95" title="*REDWING*"></node>
+                <node id="96" title="*VASHTI*"></node>
+                <node id="97" title="*KINGPIN*"></node>
+                <node id="98" title="*ARBOGAST*"></node>
+                <node id="99" title="*OSBORN*"></node>
+                <node id="100" title="*RUSSELL*"></node>
+                <node id="101" title="*WEREWOLFBYNIGHT*"></node>
+                <node id="102" title="*FUMANCHU*"></node>
+                <node id="103" title="*ROM*"></node>
+                <node id="104" title="*STARSHINEII*"></node>
+                <node id="105" title="*WATSON*"></node>
+                <node id="106" title="*CAPTAINMARVEL*"></node>
+                <node id="107" title="*VANHELSING*"></node>
+                <node id="108" title="*ROGUE*"></node>
+                <node id="109" title="*NORRISS*"></node>
+                <node id="110" title="*SPIDER-MANCLONE*"></node>
+                <node id="111" title="*BARONMORDO*"></node>
+                <node id="112" title="*CAPTAINBRITAIN*"></node>
+                <node id="113" title="*MEGGAN*"></node>
+                <node id="114" title="*CANNONBALLII*"></node>
+                <node id="115" title="*SUNSPOT*"></node>
+                <node id="116" title="*KNIGHT*"></node>
+                <node id="117" title="*WING*"></node>
+                <node id="118" title="*DR.DOOM*"></node>
+                <node id="119" title="*WOLFE*"></node>
+                <node id="120" title="*BLACKCAT*"></node>
+                <node id="121" title="*HEIMDALL[ASGARDIAN]*"></node>
+                <node id="122" title="*KARNILLA[ASGARDIAN]*"></node>
+                <node id="123" title="*URICH*"></node>
+                <node id="124" title="*MANDARIN*"></node>
+                <node id="125" title="*STACY*"></node>
+                <node id="126" title="*ROSENTHAL*"></node>
+                <node id="127" title="*BLACKPANTHER*"></node>
+                <node id="128" title="*LYNNE*"></node>
+                <node id="129" title="*GRANT*"></node>
+                <node id="130" title="*NIGHTHAWKII*"></node>
+                <node id="131" title="*CRYSTAL[INHUMAN]*"></node>
+                <node id="132" title="*MIRAGEII*"></node>
+                <node id="133" title="*DEVILDINOSAUR*"></node>
+                <node id="134" title="*MOONBOY*"></node>
+                <node id="135" title="*BLAZE*"></node>
+                <node id="136" title="*GHOSTRIDERII*"></node>
+                <node id="137" title="*HERCULES[GREEKGOD]*"></node>
+                <node id="138" title="*WOLFSBANE*"></node>
+                <node id="139" title="*MAN-THING*"></node>
+                <node id="140" title="*RORY*"></node>
+                <node id="141" title="*PETROVITCH*"></node>
+                <node id="142" title="*RINTRAH*"></node>
+                <node id="143" title="*GORGON[INHUMAN]*"></node>
+                <node id="144" title="*KARNAK[INHUMAN]*"></node>
+                <node id="145" title="*DR.OCTOPUS*"></node>
+                <node id="146" title="*SITWELL*"></node>
+                <node id="147" title="*HARKER*"></node>
+                <node id="148" title="*SHE-HULK*"></node>
+                <node id="149" title="*GALACTUS*"></node>
+                <node id="150" title="*SILVERSURFER*"></node>
+                <node id="151" title="*LEADER*"></node>
+                <node id="152" title="*BINARY*"></node>
+                <node id="153" title="*TYGERTIGER*"></node>
+                <node id="154" title="*CABE*"></node>
+                <node id="155" title="*GLENN*"></node>
+                <node id="156" title="*COWEN*"></node>
+                <node id="157" title="*PSYLOCKE*"></node>
+                <node id="158" title="*LYJALAZERFIST[SKRULL]*"></node>
+                <node id="159" title="*COUNTERWEIGHT*"></node>
+                <node id="160" title="*GEE*"></node>
+                <node id="161" title="*LIGHTSPEED*"></node>
+                <node id="162" title="*COUNTERWEIGHTII*"></node>
+                <node id="163" title="*MS.MARVELII*"></node>
+                <node id="164" title="*DELAFONTAINE*"></node>
+                <node id="165" title="*BLACKBOLT*"></node>
+            </nodeclass>
+        </nodes>
+        <networks>
+            <network sourceType="Agent" source="source nodes" targetType="Agent" target="source nodes" id="network">
+                <link source="1" target="2" type="double" value="1.0"></link>
+                <link source="2" target="1" type="double" value="1.0"></link>
+                <link source="3" target="4" type="double" value="1.0"></link>
+                <link source="4" target="3" type="double" value="1.0"></link>
+                <link source="5" target="4" type="double" value="1.0"></link>
+                <link source="4" target="5" type="double" value="1.0"></link>
+                <link source="3" target="5" type="double" value="1.0"></link>
+                <link source="5" target="3" type="double" value="1.0"></link>
+                <link source="6" target="5" type="double" value="1.0"></link>
+                <link source="5" target="6" type="double" value="1.0"></link>
+                <link source="3" target="6" type="double" value="1.0"></link>
+                <link source="6" target="3" type="double" value="1.0"></link>
+                <link source="6" target="4" type="double" value="1.0"></link>
+                <link source="4" target="6" type="double" value="1.0"></link>
+                <link source="7" target="1" type="double" value="1.0"></link>
+                <link source="1" target="7" type="double" value="1.0"></link>
+                <link source="8" target="9" type="double" value="1.0"></link>
+                <link source="9" target="8" type="double" value="1.0"></link>
+                <link source="10" target="11" type="double" value="1.0"></link>
+                <link source="11" target="10" type="double" value="1.0"></link>
+                <link source="12" target="13" type="double" value="1.0"></link>
+                <link source="13" target="12" type="double" value="1.0"></link>
+                <link source="14" target="1" type="double" value="1.0"></link>
+                <link source="1" target="14" type="double" value="1.0"></link>
+                <link source="15" target="1" type="double" value="1.0"></link>
+                <link source="1" target="15" type="double" value="1.0"></link>
+                <link source="16" target="17" type="double" value="1.0"></link>
+                <link source="17" target="16" type="double" value="1.0"></link>
+                <link source="18" target="19" type="double" value="1.0"></link>
+                <link source="19" target="18" type="double" value="1.0"></link>
+                <link source="20" target="21" type="double" value="1.0"></link>
+                <link source="21" target="20" type="double" value="1.0"></link>
+                <link source="19" target="22" type="double" value="1.0"></link>
+                <link source="22" target="19" type="double" value="1.0"></link>
+                <link source="23" target="24" type="double" value="1.0"></link>
+                <link source="24" target="23" type="double" value="1.0"></link>
+                <link source="25" target="23" type="double" value="1.0"></link>
+                <link source="23" target="25" type="double" value="1.0"></link>
+                <link source="26" target="16" type="double" value="1.0"></link>
+                <link source="16" target="26" type="double" value="1.0"></link>
+                <link source="27" target="28" type="double" value="1.0"></link>
+                <link source="28" target="27" type="double" value="1.0"></link>
+                <link source="29" target="30" type="double" value="1.0"></link>
+                <link source="30" target="29" type="double" value="1.0"></link>
+                <link source="31" target="32" type="double" value="1.0"></link>
+                <link source="32" target="31" type="double" value="1.0"></link>
+                <link source="8" target="33" type="double" value="1.0"></link>
+                <link source="33" target="8" type="double" value="1.0"></link>
+                <link source="7" target="15" type="double" value="1.0"></link>
+                <link source="15" target="7" type="double" value="1.0"></link>
+                <link source="1" target="34" type="double" value="1.0"></link>
+                <link source="34" target="1" type="double" value="1.0"></link>
+                <link source="25" target="35" type="double" value="1.0"></link>
+                <link source="35" target="25" type="double" value="1.0"></link>
+                <link source="25" target="11" type="double" value="1.0"></link>
+                <link source="11" target="25" type="double" value="1.0"></link>
+                <link source="19" target="36" type="double" value="1.0"></link>
+                <link source="36" target="19" type="double" value="1.0"></link>
+                <link source="37" target="38" type="double" value="1.0"></link>
+                <link source="38" target="37" type="double" value="1.0"></link>
+                <link source="39" target="4" type="double" value="1.0"></link>
+                <link source="4" target="39" type="double" value="1.0"></link>
+                <link source="40" target="41" type="double" value="1.0"></link>
+                <link source="41" target="40" type="double" value="1.0"></link>
+                <link source="42" target="1" type="double" value="1.0"></link>
+                <link source="1" target="42" type="double" value="1.0"></link>
+                <link source="43" target="44" type="double" value="1.0"></link>
+                <link source="44" target="43" type="double" value="1.0"></link>
+                <link source="23" target="28" type="double" value="1.0"></link>
+                <link source="28" target="23" type="double" value="1.0"></link>
+                <link source="25" target="28" type="double" value="1.0"></link>
+                <link source="28" target="25" type="double" value="1.0"></link>
+                <link source="45" target="28" type="double" value="1.0"></link>
+                <link source="28" target="45" type="double" value="1.0"></link>
+                <link source="46" target="47" type="double" value="1.0"></link>
+                <link source="47" target="46" type="double" value="1.0"></link>
+                <link source="48" target="49" type="double" value="1.0"></link>
+                <link source="49" target="48" type="double" value="1.0"></link>
+                <link source="23" target="31" type="double" value="1.0"></link>
+                <link source="31" target="23" type="double" value="1.0"></link>
+                <link source="50" target="51" type="double" value="1.0"></link>
+                <link source="51" target="50" type="double" value="1.0"></link>
+                <link source="25" target="52" type="double" value="1.0"></link>
+                <link source="52" target="25" type="double" value="1.0"></link>
+                <link source="25" target="31" type="double" value="1.0"></link>
+                <link source="31" target="25" type="double" value="1.0"></link>
+                <link source="53" target="41" type="double" value="1.0"></link>
+                <link source="41" target="53" type="double" value="1.0"></link>
+                <link source="25" target="32" type="double" value="1.0"></link>
+                <link source="32" target="25" type="double" value="1.0"></link>
+                <link source="29" target="54" type="double" value="1.0"></link>
+                <link source="54" target="29" type="double" value="1.0"></link>
+                <link source="55" target="47" type="double" value="1.0"></link>
+                <link source="47" target="55" type="double" value="1.0"></link>
+                <link source="7" target="2" type="double" value="1.0"></link>
+                <link source="2" target="7" type="double" value="1.0"></link>
+                <link source="25" target="56" type="double" value="1.0"></link>
+                <link source="56" target="25" type="double" value="1.0"></link>
+                <link source="5" target="57" type="double" value="1.0"></link>
+                <link source="57" target="5" type="double" value="1.0"></link>
+                <link source="58" target="59" type="double" value="1.0"></link>
+                <link source="59" target="58" type="double" value="1.0"></link>
+                <link source="40" target="53" type="double" value="1.0"></link>
+                <link source="53" target="40" type="double" value="1.0"></link>
+                <link source="29" target="41" type="double" value="1.0"></link>
+                <link source="41" target="29" type="double" value="1.0"></link>
+                <link source="53" target="29" type="double" value="1.0"></link>
+                <link source="29" target="53" type="double" value="1.0"></link>
+                <link source="60" target="61" type="double" value="1.0"></link>
+                <link source="61" target="60" type="double" value="1.0"></link>
+                <link source="25" target="62" type="double" value="1.0"></link>
+                <link source="62" target="25" type="double" value="1.0"></link>
+                <link source="18" target="22" type="double" value="1.0"></link>
+                <link source="22" target="18" type="double" value="1.0"></link>
+                <link source="63" target="64" type="double" value="1.0"></link>
+                <link source="64" target="63" type="double" value="1.0"></link>
+                <link source="53" target="30" type="double" value="1.0"></link>
+                <link source="30" target="53" type="double" value="1.0"></link>
+                <link source="59" target="65" type="double" value="1.0"></link>
+                <link source="65" target="59" type="double" value="1.0"></link>
+                <link source="66" target="46" type="double" value="1.0"></link>
+                <link source="46" target="66" type="double" value="1.0"></link>
+                <link source="41" target="30" type="double" value="1.0"></link>
+                <link source="30" target="41" type="double" value="1.0"></link>
+                <link source="67" target="49" type="double" value="1.0"></link>
+                <link source="49" target="67" type="double" value="1.0"></link>
+                <link source="6" target="57" type="double" value="1.0"></link>
+                <link source="57" target="6" type="double" value="1.0"></link>
+                <link source="23" target="32" type="double" value="1.0"></link>
+                <link source="32" target="23" type="double" value="1.0"></link>
+                <link source="58" target="65" type="double" value="1.0"></link>
+                <link source="65" target="58" type="double" value="1.0"></link>
+                <link source="68" target="28" type="double" value="1.0"></link>
+                <link source="28" target="68" type="double" value="1.0"></link>
+                <link source="66" target="47" type="double" value="1.0"></link>
+                <link source="47" target="66" type="double" value="1.0"></link>
+                <link source="55" target="69" type="double" value="1.0"></link>
+                <link source="69" target="55" type="double" value="1.0"></link>
+                <link source="19" target="70" type="double" value="1.0"></link>
+                <link source="70" target="19" type="double" value="1.0"></link>
+                <link source="56" target="31" type="double" value="1.0"></link>
+                <link source="31" target="56" type="double" value="1.0"></link>
+                <link source="71" target="28" type="double" value="1.0"></link>
+                <link source="28" target="71" type="double" value="1.0"></link>
+                <link source="10" target="23" type="double" value="1.0"></link>
+                <link source="23" target="10" type="double" value="1.0"></link>
+                <link source="25" target="44" type="double" value="1.0"></link>
+                <link source="44" target="25" type="double" value="1.0"></link>
+                <link source="7" target="14" type="double" value="1.0"></link>
+                <link source="14" target="7" type="double" value="1.0"></link>
+                <link source="40" target="29" type="double" value="1.0"></link>
+                <link source="29" target="40" type="double" value="1.0"></link>
+                <link source="10" target="25" type="double" value="1.0"></link>
+                <link source="25" target="10" type="double" value="1.0"></link>
+                <link source="23" target="11" type="double" value="1.0"></link>
+                <link source="11" target="23" type="double" value="1.0"></link>
+                <link source="25" target="72" type="double" value="1.0"></link>
+                <link source="72" target="25" type="double" value="1.0"></link>
+                <link source="73" target="1" type="double" value="1.0"></link>
+                <link source="1" target="73" type="double" value="1.0"></link>
+                <link source="14" target="2" type="double" value="1.0"></link>
+                <link source="2" target="14" type="double" value="1.0"></link>
+                <link source="40" target="30" type="double" value="1.0"></link>
+                <link source="30" target="40" type="double" value="1.0"></link>
+                <link source="66" target="55" type="double" value="1.0"></link>
+                <link source="55" target="66" type="double" value="1.0"></link>
+                <link source="10" target="56" type="double" value="1.0"></link>
+                <link source="56" target="10" type="double" value="1.0"></link>
+                <link source="9" target="33" type="double" value="1.0"></link>
+                <link source="33" target="9" type="double" value="1.0"></link>
+                <link source="56" target="23" type="double" value="1.0"></link>
+                <link source="23" target="56" type="double" value="1.0"></link>
+                <link source="50" target="74" type="double" value="1.0"></link>
+                <link source="74" target="50" type="double" value="1.0"></link>
+                <link source="75" target="16" type="double" value="1.0"></link>
+                <link source="16" target="75" type="double" value="1.0"></link>
+                <link source="76" target="23" type="double" value="1.0"></link>
+                <link source="23" target="76" type="double" value="1.0"></link>
+                <link source="77" target="23" type="double" value="1.0"></link>
+                <link source="23" target="77" type="double" value="1.0"></link>
+                <link source="78" target="79" type="double" value="1.0"></link>
+                <link source="79" target="78" type="double" value="1.0"></link>
+                <link source="80" target="8" type="double" value="1.0"></link>
+                <link source="8" target="80" type="double" value="1.0"></link>
+                <link source="56" target="11" type="double" value="1.0"></link>
+                <link source="11" target="56" type="double" value="1.0"></link>
+                <link source="57" target="4" type="double" value="1.0"></link>
+                <link source="4" target="57" type="double" value="1.0"></link>
+                <link source="28" target="65" type="double" value="1.0"></link>
+                <link source="65" target="28" type="double" value="1.0"></link>
+                <link source="58" target="28" type="double" value="1.0"></link>
+                <link source="28" target="58" type="double" value="1.0"></link>
+                <link source="59" target="28" type="double" value="1.0"></link>
+                <link source="28" target="59" type="double" value="1.0"></link>
+                <link source="3" target="57" type="double" value="1.0"></link>
+                <link source="57" target="3" type="double" value="1.0"></link>
+                <link source="12" target="81" type="double" value="1.0"></link>
+                <link source="81" target="12" type="double" value="1.0"></link>
+                <link source="50" target="82" type="double" value="1.0"></link>
+                <link source="82" target="50" type="double" value="1.0"></link>
+                <link source="29" target="47" type="double" value="1.0"></link>
+                <link source="47" target="29" type="double" value="1.0"></link>
+                <link source="83" target="84" type="double" value="1.0"></link>
+                <link source="84" target="83" type="double" value="1.0"></link>
+                <link source="55" target="46" type="double" value="1.0"></link>
+                <link source="46" target="55" type="double" value="1.0"></link>
+                <link source="22" target="70" type="double" value="1.0"></link>
+                <link source="70" target="22" type="double" value="1.0"></link>
+                <link source="85" target="50" type="double" value="1.0"></link>
+                <link source="50" target="85" type="double" value="1.0"></link>
+                <link source="86" target="25" type="double" value="1.0"></link>
+                <link source="25" target="86" type="double" value="1.0"></link>
+                <link source="18" target="36" type="double" value="1.0"></link>
+                <link source="36" target="18" type="double" value="1.0"></link>
+                <link source="15" target="2" type="double" value="1.0"></link>
+                <link source="2" target="15" type="double" value="1.0"></link>
+                <link source="31" target="11" type="double" value="1.0"></link>
+                <link source="11" target="31" type="double" value="1.0"></link>
+                <link source="81" target="13" type="double" value="1.0"></link>
+                <link source="13" target="81" type="double" value="1.0"></link>
+                <link source="26" target="17" type="double" value="1.0"></link>
+                <link source="17" target="26" type="double" value="1.0"></link>
+                <link source="10" target="32" type="double" value="1.0"></link>
+                <link source="32" target="10" type="double" value="1.0"></link>
+                <link source="56" target="32" type="double" value="1.0"></link>
+                <link source="32" target="56" type="double" value="1.0"></link>
+                <link source="54" target="47" type="double" value="1.0"></link>
+                <link source="47" target="54" type="double" value="1.0"></link>
+                <link source="87" target="88" type="double" value="1.0"></link>
+                <link source="88" target="87" type="double" value="1.0"></link>
+                <link source="45" target="27" type="double" value="1.0"></link>
+                <link source="27" target="45" type="double" value="1.0"></link>
+                <link source="89" target="28" type="double" value="1.0"></link>
+                <link source="28" target="89" type="double" value="1.0"></link>
+                <link source="56" target="90" type="double" value="1.0"></link>
+                <link source="90" target="56" type="double" value="1.0"></link>
+                <link source="7" target="42" type="double" value="1.0"></link>
+                <link source="42" target="7" type="double" value="1.0"></link>
+                <link source="77" target="76" type="double" value="1.0"></link>
+                <link source="76" target="77" type="double" value="1.0"></link>
+                <link source="91" target="31" type="double" value="1.0"></link>
+                <link source="31" target="91" type="double" value="1.0"></link>
+                <link source="23" target="92" type="double" value="1.0"></link>
+                <link source="92" target="23" type="double" value="1.0"></link>
+                <link source="30" target="54" type="double" value="1.0"></link>
+                <link source="54" target="30" type="double" value="1.0"></link>
+                <link source="43" target="93" type="double" value="1.0"></link>
+                <link source="93" target="43" type="double" value="1.0"></link>
+                <link source="94" target="19" type="double" value="1.0"></link>
+                <link source="19" target="94" type="double" value="1.0"></link>
+                <link source="35" target="95" type="double" value="1.0"></link>
+                <link source="95" target="35" type="double" value="1.0"></link>
+                <link source="31" target="92" type="double" value="1.0"></link>
+                <link source="92" target="31" type="double" value="1.0"></link>
+                <link source="10" target="31" type="double" value="1.0"></link>
+                <link source="31" target="10" type="double" value="1.0"></link>
+                <link source="32" target="11" type="double" value="1.0"></link>
+                <link source="11" target="32" type="double" value="1.0"></link>
+                <link source="18" target="70" type="double" value="1.0"></link>
+                <link source="70" target="18" type="double" value="1.0"></link>
+                <link source="84" target="96" type="double" value="1.0"></link>
+                <link source="96" target="84" type="double" value="1.0"></link>
+                <link source="16" target="19" type="double" value="1.0"></link>
+                <link source="19" target="16" type="double" value="1.0"></link>
+                <link source="8" target="97" type="double" value="1.0"></link>
+                <link source="97" target="8" type="double" value="1.0"></link>
+                <link source="54" target="46" type="double" value="1.0"></link>
+                <link source="46" target="54" type="double" value="1.0"></link>
+                <link source="29" target="46" type="double" value="1.0"></link>
+                <link source="46" target="29" type="double" value="1.0"></link>
+                <link source="39" target="5" type="double" value="1.0"></link>
+                <link source="5" target="39" type="double" value="1.0"></link>
+                <link source="31" target="28" type="double" value="1.0"></link>
+                <link source="28" target="31" type="double" value="1.0"></link>
+                <link source="28" target="11" type="double" value="1.0"></link>
+                <link source="11" target="28" type="double" value="1.0"></link>
+                <link source="98" target="23" type="double" value="1.0"></link>
+                <link source="23" target="98" type="double" value="1.0"></link>
+                <link source="28" target="32" type="double" value="1.0"></link>
+                <link source="32" target="28" type="double" value="1.0"></link>
+                <link source="71" target="68" type="double" value="1.0"></link>
+                <link source="68" target="71" type="double" value="1.0"></link>
+                <link source="48" target="67" type="double" value="1.0"></link>
+                <link source="67" target="48" type="double" value="1.0"></link>
+                <link source="71" target="27" type="double" value="1.0"></link>
+                <link source="27" target="71" type="double" value="1.0"></link>
+                <link source="6" target="39" type="double" value="1.0"></link>
+                <link source="39" target="6" type="double" value="1.0"></link>
+                <link source="51" target="74" type="double" value="1.0"></link>
+                <link source="74" target="51" type="double" value="1.0"></link>
+                <link source="85" target="51" type="double" value="1.0"></link>
+                <link source="51" target="85" type="double" value="1.0"></link>
+                <link source="82" target="51" type="double" value="1.0"></link>
+                <link source="51" target="82" type="double" value="1.0"></link>
+                <link source="3" target="39" type="double" value="1.0"></link>
+                <link source="39" target="3" type="double" value="1.0"></link>
+                <link source="27" target="68" type="double" value="1.0"></link>
+                <link source="68" target="27" type="double" value="1.0"></link>
+                <link source="56" target="92" type="double" value="1.0"></link>
+                <link source="92" target="56" type="double" value="1.0"></link>
+                <link source="99" target="1" type="double" value="1.0"></link>
+                <link source="1" target="99" type="double" value="1.0"></link>
+                <link source="23" target="72" type="double" value="1.0"></link>
+                <link source="72" target="23" type="double" value="1.0"></link>
+                <link source="85" target="74" type="double" value="1.0"></link>
+                <link source="74" target="85" type="double" value="1.0"></link>
+                <link source="100" target="101" type="double" value="1.0"></link>
+                <link source="101" target="100" type="double" value="1.0"></link>
+                <link source="66" target="54" type="double" value="1.0"></link>
+                <link source="54" target="66" type="double" value="1.0"></link>
+                <link source="102" target="50" type="double" value="1.0"></link>
+                <link source="50" target="102" type="double" value="1.0"></link>
+                <link source="32" target="92" type="double" value="1.0"></link>
+                <link source="92" target="32" type="double" value="1.0"></link>
+                <link source="103" target="104" type="double" value="1.0"></link>
+                <link source="104" target="103" type="double" value="1.0"></link>
+                <link source="66" target="69" type="double" value="1.0"></link>
+                <link source="69" target="66" type="double" value="1.0"></link>
+                <link source="7" target="34" type="double" value="1.0"></link>
+                <link source="34" target="7" type="double" value="1.0"></link>
+                <link source="1" target="105" type="double" value="1.0"></link>
+                <link source="105" target="1" type="double" value="1.0"></link>
+                <link source="53" target="54" type="double" value="1.0"></link>
+                <link source="54" target="53" type="double" value="1.0"></link>
+                <link source="10" target="92" type="double" value="1.0"></link>
+                <link source="92" target="10" type="double" value="1.0"></link>
+                <link source="106" target="36" type="double" value="1.0"></link>
+                <link source="36" target="106" type="double" value="1.0"></link>
+                <link source="71" target="65" type="double" value="1.0"></link>
+                <link source="65" target="71" type="double" value="1.0"></link>
+                <link source="87" target="107" type="double" value="1.0"></link>
+                <link source="107" target="87" type="double" value="1.0"></link>
+                <link source="108" target="47" type="double" value="1.0"></link>
+                <link source="47" target="108" type="double" value="1.0"></link>
+                <link source="3" target="1" type="double" value="1.0"></link>
+                <link source="1" target="3" type="double" value="1.0"></link>
+                <link source="16" target="109" type="double" value="1.0"></link>
+                <link source="109" target="16" type="double" value="1.0"></link>
+                <link source="1" target="110" type="double" value="1.0"></link>
+                <link source="110" target="1" type="double" value="1.0"></link>
+                <link source="111" target="16" type="double" value="1.0"></link>
+                <link source="16" target="111" type="double" value="1.0"></link>
+                <link source="71" target="59" type="double" value="1.0"></link>
+                <link source="59" target="71" type="double" value="1.0"></link>
+                <link source="88" target="107" type="double" value="1.0"></link>
+                <link source="107" target="88" type="double" value="1.0"></link>
+                <link source="72" target="32" type="double" value="1.0"></link>
+                <link source="32" target="72" type="double" value="1.0"></link>
+                <link source="40" target="54" type="double" value="1.0"></link>
+                <link source="54" target="40" type="double" value="1.0"></link>
+                <link source="69" target="47" type="double" value="1.0"></link>
+                <link source="47" target="69" type="double" value="1.0"></link>
+                <link source="71" target="58" type="double" value="1.0"></link>
+                <link source="58" target="71" type="double" value="1.0"></link>
+                <link source="10" target="28" type="double" value="1.0"></link>
+                <link source="28" target="10" type="double" value="1.0"></link>
+                <link source="41" target="54" type="double" value="1.0"></link>
+                <link source="54" target="41" type="double" value="1.0"></link>
+                <link source="56" target="28" type="double" value="1.0"></link>
+                <link source="28" target="56" type="double" value="1.0"></link>
+                <link source="112" target="113" type="double" value="1.0"></link>
+                <link source="113" target="112" type="double" value="1.0"></link>
+                <link source="114" target="115" type="double" value="1.0"></link>
+                <link source="115" target="114" type="double" value="1.0"></link>
+                <link source="73" target="2" type="double" value="1.0"></link>
+                <link source="2" target="73" type="double" value="1.0"></link>
+                <link source="116" target="117" type="double" value="1.0"></link>
+                <link source="117" target="116" type="double" value="1.0"></link>
+                <link source="118" target="5" type="double" value="1.0"></link>
+                <link source="5" target="118" type="double" value="1.0"></link>
+                <link source="19" target="109" type="double" value="1.0"></link>
+                <link source="109" target="19" type="double" value="1.0"></link>
+                <link source="108" target="46" type="double" value="1.0"></link>
+                <link source="46" target="108" type="double" value="1.0"></link>
+                <link source="16" target="119" type="double" value="1.0"></link>
+                <link source="119" target="16" type="double" value="1.0"></link>
+                <link source="44" target="23" type="double" value="1.0"></link>
+                <link source="23" target="44" type="double" value="1.0"></link>
+                <link source="120" target="1" type="double" value="1.0"></link>
+                <link source="1" target="120" type="double" value="1.0"></link>
+                <link source="66" target="29" type="double" value="1.0"></link>
+                <link source="29" target="66" type="double" value="1.0"></link>
+                <link source="121" target="27" type="double" value="1.0"></link>
+                <link source="27" target="121" type="double" value="1.0"></link>
+                <link source="71" target="122" type="double" value="1.0"></link>
+                <link source="122" target="71" type="double" value="1.0"></link>
+                <link source="25" target="84" type="double" value="1.0"></link>
+                <link source="84" target="25" type="double" value="1.0"></link>
+                <link source="1" target="123" type="double" value="1.0"></link>
+                <link source="123" target="1" type="double" value="1.0"></link>
+                <link source="27" target="65" type="double" value="1.0"></link>
+                <link source="65" target="27" type="double" value="1.0"></link>
+                <link source="25" target="92" type="double" value="1.0"></link>
+                <link source="92" target="25" type="double" value="1.0"></link>
+                <link source="23" target="124" type="double" value="1.0"></link>
+                <link source="124" target="23" type="double" value="1.0"></link>
+                <link source="1" target="125" type="double" value="1.0"></link>
+                <link source="125" target="1" type="double" value="1.0"></link>
+                <link source="72" target="28" type="double" value="1.0"></link>
+                <link source="28" target="72" type="double" value="1.0"></link>
+                <link source="55" target="54" type="double" value="1.0"></link>
+                <link source="54" target="55" type="double" value="1.0"></link>
+                <link source="25" target="126" type="double" value="1.0"></link>
+                <link source="126" target="25" type="double" value="1.0"></link>
+                <link source="118" target="4" type="double" value="1.0"></link>
+                <link source="4" target="118" type="double" value="1.0"></link>
+                <link source="82" target="74" type="double" value="1.0"></link>
+                <link source="74" target="82" type="double" value="1.0"></link>
+                <link source="127" target="128" type="double" value="1.0"></link>
+                <link source="128" target="127" type="double" value="1.0"></link>
+                <link source="59" target="27" type="double" value="1.0"></link>
+                <link source="27" target="59" type="double" value="1.0"></link>
+                <link source="11" target="92" type="double" value="1.0"></link>
+                <link source="92" target="11" type="double" value="1.0"></link>
+                <link source="58" target="27" type="double" value="1.0"></link>
+                <link source="27" target="58" type="double" value="1.0"></link>
+                <link source="85" target="82" type="double" value="1.0"></link>
+                <link source="82" target="85" type="double" value="1.0"></link>
+                <link source="71" target="45" type="double" value="1.0"></link>
+                <link source="45" target="71" type="double" value="1.0"></link>
+                <link source="42" target="34" type="double" value="1.0"></link>
+                <link source="34" target="42" type="double" value="1.0"></link>
+                <link source="66" target="108" type="double" value="1.0"></link>
+                <link source="108" target="66" type="double" value="1.0"></link>
+                <link source="42" target="14" type="double" value="1.0"></link>
+                <link source="14" target="42" type="double" value="1.0"></link>
+                <link source="129" target="1" type="double" value="1.0"></link>
+                <link source="1" target="129" type="double" value="1.0"></link>
+                <link source="42" target="2" type="double" value="1.0"></link>
+                <link source="2" target="42" type="double" value="1.0"></link>
+                <link source="25" target="91" type="double" value="1.0"></link>
+                <link source="91" target="25" type="double" value="1.0"></link>
+                <link source="34" target="2" type="double" value="1.0"></link>
+                <link source="2" target="34" type="double" value="1.0"></link>
+                <link source="56" target="91" type="double" value="1.0"></link>
+                <link source="91" target="56" type="double" value="1.0"></link>
+                <link source="97" target="1" type="double" value="1.0"></link>
+                <link source="1" target="97" type="double" value="1.0"></link>
+                <link source="130" target="109" type="double" value="1.0"></link>
+                <link source="109" target="130" type="double" value="1.0"></link>
+                <link source="14" target="34" type="double" value="1.0"></link>
+                <link source="34" target="14" type="double" value="1.0"></link>
+                <link source="131" target="4" type="double" value="1.0"></link>
+                <link source="4" target="131" type="double" value="1.0"></link>
+                <link source="131" target="3" type="double" value="1.0"></link>
+                <link source="3" target="131" type="double" value="1.0"></link>
+                <link source="114" target="132" type="double" value="1.0"></link>
+                <link source="132" target="114" type="double" value="1.0"></link>
+                <link source="72" target="11" type="double" value="1.0"></link>
+                <link source="11" target="72" type="double" value="1.0"></link>
+                <link source="121" target="28" type="double" value="1.0"></link>
+                <link source="28" target="121" type="double" value="1.0"></link>
+                <link source="118" target="3" type="double" value="1.0"></link>
+                <link source="3" target="118" type="double" value="1.0"></link>
+                <link source="133" target="134" type="double" value="1.0"></link>
+                <link source="134" target="133" type="double" value="1.0"></link>
+                <link source="79" target="116" type="double" value="1.0"></link>
+                <link source="116" target="79" type="double" value="1.0"></link>
+                <link source="36" target="22" type="double" value="1.0"></link>
+                <link source="22" target="36" type="double" value="1.0"></link>
+                <link source="53" target="25" type="double" value="1.0"></link>
+                <link source="25" target="53" type="double" value="1.0"></link>
+                <link source="135" target="136" type="double" value="1.0"></link>
+                <link source="136" target="135" type="double" value="1.0"></link>
+                <link source="113" target="55" type="double" value="1.0"></link>
+                <link source="55" target="113" type="double" value="1.0"></link>
+                <link source="25" target="137" type="double" value="1.0"></link>
+                <link source="137" target="25" type="double" value="1.0"></link>
+                <link source="132" target="115" type="double" value="1.0"></link>
+                <link source="115" target="132" type="double" value="1.0"></link>
+                <link source="114" target="138" type="double" value="1.0"></link>
+                <link source="138" target="114" type="double" value="1.0"></link>
+                <link source="139" target="140" type="double" value="1.0"></link>
+                <link source="140" target="139" type="double" value="1.0"></link>
+                <link source="80" target="141" type="double" value="1.0"></link>
+                <link source="141" target="80" type="double" value="1.0"></link>
+                <link source="8" target="1" type="double" value="1.0"></link>
+                <link source="1" target="8" type="double" value="1.0"></link>
+                <link source="112" target="69" type="double" value="1.0"></link>
+                <link source="69" target="112" type="double" value="1.0"></link>
+                <link source="113" target="69" type="double" value="1.0"></link>
+                <link source="69" target="113" type="double" value="1.0"></link>
+                <link source="16" target="142" type="double" value="1.0"></link>
+                <link source="142" target="16" type="double" value="1.0"></link>
+                <link source="143" target="144" type="double" value="1.0"></link>
+                <link source="144" target="143" type="double" value="1.0"></link>
+                <link source="29" target="55" type="double" value="1.0"></link>
+                <link source="55" target="29" type="double" value="1.0"></link>
+                <link source="19" target="130" type="double" value="1.0"></link>
+                <link source="130" target="19" type="double" value="1.0"></link>
+                <link source="72" target="31" type="double" value="1.0"></link>
+                <link source="31" target="72" type="double" value="1.0"></link>
+                <link source="59" target="68" type="double" value="1.0"></link>
+                <link source="68" target="59" type="double" value="1.0"></link>
+                <link source="58" target="68" type="double" value="1.0"></link>
+                <link source="68" target="58" type="double" value="1.0"></link>
+                <link source="145" target="1" type="double" value="1.0"></link>
+                <link source="1" target="145" type="double" value="1.0"></link>
+                <link source="44" target="93" type="double" value="1.0"></link>
+                <link source="93" target="44" type="double" value="1.0"></link>
+                <link source="23" target="146" type="double" value="1.0"></link>
+                <link source="146" target="23" type="double" value="1.0"></link>
+                <link source="25" target="4" type="double" value="1.0"></link>
+                <link source="4" target="25" type="double" value="1.0"></link>
+                <link source="87" target="147" type="double" value="1.0"></link>
+                <link source="147" target="87" type="double" value="1.0"></link>
+                <link source="42" target="15" type="double" value="1.0"></link>
+                <link source="15" target="42" type="double" value="1.0"></link>
+                <link source="5" target="148" type="double" value="1.0"></link>
+                <link source="148" target="5" type="double" value="1.0"></link>
+                <link source="25" target="43" type="double" value="1.0"></link>
+                <link source="43" target="25" type="double" value="1.0"></link>
+                <link source="79" target="117" type="double" value="1.0"></link>
+                <link source="117" target="79" type="double" value="1.0"></link>
+                <link source="68" target="65" type="double" value="1.0"></link>
+                <link source="65" target="68" type="double" value="1.0"></link>
+                <link source="25" target="1" type="double" value="1.0"></link>
+                <link source="1" target="25" type="double" value="1.0"></link>
+                <link source="25" target="95" type="double" value="1.0"></link>
+                <link source="95" target="25" type="double" value="1.0"></link>
+                <link source="149" target="150" type="double" value="1.0"></link>
+                <link source="150" target="149" type="double" value="1.0"></link>
+                <link source="19" target="151" type="double" value="1.0"></link>
+                <link source="151" target="19" type="double" value="1.0"></link>
+                <link source="152" target="106" type="double" value="1.0"></link>
+                <link source="106" target="152" type="double" value="1.0"></link>
+                <link source="153" target="47" type="double" value="1.0"></link>
+                <link source="47" target="153" type="double" value="1.0"></link>
+                <link source="7" target="73" type="double" value="1.0"></link>
+                <link source="73" target="7" type="double" value="1.0"></link>
+                <link source="112" target="55" type="double" value="1.0"></link>
+                <link source="55" target="112" type="double" value="1.0"></link>
+                <link source="69" target="46" type="double" value="1.0"></link>
+                <link source="46" target="69" type="double" value="1.0"></link>
+                <link source="25" target="5" type="double" value="1.0"></link>
+                <link source="5" target="25" type="double" value="1.0"></link>
+                <link source="115" target="138" type="double" value="1.0"></link>
+                <link source="138" target="115" type="double" value="1.0"></link>
+                <link source="14" target="15" type="double" value="1.0"></link>
+                <link source="15" target="14" type="double" value="1.0"></link>
+                <link source="154" target="23" type="double" value="1.0"></link>
+                <link source="23" target="154" type="double" value="1.0"></link>
+                <link source="8" target="155" type="double" value="1.0"></link>
+                <link source="155" target="8" type="double" value="1.0"></link>
+                <link source="53" target="23" type="double" value="1.0"></link>
+                <link source="23" target="53" type="double" value="1.0"></link>
+                <link source="6" target="148" type="double" value="1.0"></link>
+                <link source="148" target="6" type="double" value="1.0"></link>
+                <link source="156" target="101" type="double" value="1.0"></link>
+                <link source="101" target="156" type="double" value="1.0"></link>
+                <link source="157" target="47" type="double" value="1.0"></link>
+                <link source="47" target="157" type="double" value="1.0"></link>
+                <link source="16" target="130" type="double" value="1.0"></link>
+                <link source="130" target="16" type="double" value="1.0"></link>
+                <link source="30" target="47" type="double" value="1.0"></link>
+                <link source="47" target="30" type="double" value="1.0"></link>
+                <link source="3" target="158" type="double" value="1.0"></link>
+                <link source="158" target="3" type="double" value="1.0"></link>
+                <link source="30" target="46" type="double" value="1.0"></link>
+                <link source="46" target="30" type="double" value="1.0"></link>
+                <link source="19" target="84" type="double" value="1.0"></link>
+                <link source="84" target="19" type="double" value="1.0"></link>
+                <link source="23" target="4" type="double" value="1.0"></link>
+                <link source="4" target="23" type="double" value="1.0"></link>
+                <link source="159" target="160" type="double" value="1.0"></link>
+                <link source="160" target="159" type="double" value="1.0"></link>
+                <link source="159" target="161" type="double" value="1.0"></link>
+                <link source="161" target="159" type="double" value="1.0"></link>
+                <link source="160" target="161" type="double" value="1.0"></link>
+                <link source="161" target="160" type="double" value="1.0"></link>
+                <link source="3" target="148" type="double" value="1.0"></link>
+                <link source="148" target="3" type="double" value="1.0"></link>
+                <link source="162" target="160" type="double" value="1.0"></link>
+                <link source="160" target="162" type="double" value="1.0"></link>
+                <link source="118" target="6" type="double" value="1.0"></link>
+                <link source="6" target="118" type="double" value="1.0"></link>
+                <link source="163" target="4" type="double" value="1.0"></link>
+                <link source="4" target="163" type="double" value="1.0"></link>
+                <link source="159" target="162" type="double" value="1.0"></link>
+                <link source="162" target="159" type="double" value="1.0"></link>
+                <link source="162" target="161" type="double" value="1.0"></link>
+                <link source="161" target="162" type="double" value="1.0"></link>
+                <link source="127" target="25" type="double" value="1.0"></link>
+                <link source="25" target="127" type="double" value="1.0"></link>
+                <link source="164" target="44" type="double" value="1.0"></link>
+                <link source="44" target="164" type="double" value="1.0"></link>
+                <link source="165" target="143" type="double" value="1.0"></link>
+                <link source="143" target="165" type="double" value="1.0"></link>
+                <link source="25" target="148" type="double" value="1.0"></link>
+                <link source="148" target="25" type="double" value="1.0"></link>
+                <link source="131" target="5" type="double" value="1.0"></link>
+                <link source="5" target="131" type="double" value="1.0"></link>
+                <link source="165" target="144" type="double" value="1.0"></link>
+                <link source="144" target="165" type="double" value="1.0"></link>
+                <link source="137" target="28" type="double" value="1.0"></link>
+                <link source="28" target="137" type="double" value="1.0"></link>
+                <link source="132" target="138" type="double" value="1.0"></link>
+                <link source="138" target="132" type="double" value="1.0"></link>
+                <link source="80" target="137" type="double" value="1.0"></link>
+                <link source="137" target="80" type="double" value="1.0"></link>
+            </network>
+        </networks>
+    </MetaNetwork>
+</DynamicNetwork>
+
